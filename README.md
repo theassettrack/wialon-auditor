@@ -6,6 +6,8 @@ If you've ever tried to audit hundreds of units in Wialon -- checking hardware p
 
 Tested on fleets with 10,000+ units.
 
+![Image](https://github.com/user-attachments/assets/db1d8256-ce30-416b-998e-5909b4d3a357)
+
 ## What it fetches
 
 | Sheet | Data |
